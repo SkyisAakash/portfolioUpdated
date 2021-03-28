@@ -1,0 +1,119 @@
+body {
+    margin: 40px;
+    font-size: 14px;
+}
+
+p {
+    margin: 5px 0px;
+}
+
+h1, h2, .blueTitle {
+    color: #08337B;
+}
+
+.blueTitle {
+    font-weight: 600;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 18px;
+    margin: 8px 0px;
+}
+
+.educationContent {
+    display: flex;
+}
+
+.year {
+    width: 85px;
+}
+
+.orangeName {
+    color: #EB7C1E;
+    font-weight: 600;
+}
+
+.contactSection img {
+    height: 15px;
+}
+
+.contactSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.contactSection div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contactSection p {
+    margin: 0px 5px;
+}
+
+.skills > div {
+    display: flex;
+}
+
+.bar01, .bar02, .bar03, .bar04 {
+    content: '';
+    border: 1px solid black;
+    margin: -10px 4px;
+}
+
+.bar01, .bar03 {
+    height: 100%;
+}
+
+.bar02 {
+    height: calc(100% - 15px);
+}
+
+.bar04 {
+    height: 32px;
+}
+
+.dot:before {
+    content: '\25CF';
+}
+
+.experience > div {
+    display: flex;
+}
+
+.verticalBar {
+    margin-right: 5px;
+}
+
+.skillTitle {
+    font-weight: 600;
+    margin-right: 5px;
+}
+
+.aa {
+    margin-bottom: 0px;
+}
+
+ul {
+    margin-top: 10px;
+}
+
+.dot {
+    margin-left: 1px;
+    margin-top: 3px;
+}
+
+.skills p {
+    margin: 1px;
+}
+
+
