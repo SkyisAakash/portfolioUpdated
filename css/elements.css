@@ -74,6 +74,21 @@
     width: 20%;
 }
 
+.resumeLink {
+    width: fit-content !important;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.personal_text .personal_social li a {
+    color: black;
+}
+
+
+.personal_text .personal_social li a:hover {
+    color: white;
+}
+
 @media only screen and (max-width:767px) {
     .video {
         margin: 10px;
