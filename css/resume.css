@@ -3,6 +3,10 @@ body {
     font-size: 14px;
 }
 
+a {
+    color: black;
+}
+
 p {
     margin: 5px 0px;
 }
